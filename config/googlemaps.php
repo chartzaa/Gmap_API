@@ -14,7 +14,7 @@ return [
     |
     */
 
-    'key'       => 'AIzaSyCko-YhIpUzUHNjXqdxpx2_hVVw9lUqB8Q',
+    'key'       => 'googlemapkey',
 
     /*
     |--------------------------------------------------------------------------
