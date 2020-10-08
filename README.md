@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
+## แนะนำ 
+- Project ใช้งาน Laravel 8 แล้ว
+- แนะนำให้ใช้ PHP7.4 
+- Project จะให้ Route API เป็นหลัก 
+- เมื่อ clone โปรเจคไปแล้วให้ติดตั้งด้วย คำสั้ง composer install ได้เลย แนะนำให้เข้าไปอยุ่ใน project ก่อนนะครับ
+- เมื่อใช้คำสั้ง composer install เรียบร้อยแล้ว ให้สั้งหาไฟล์ .env ถ้าไม่มีไฟล์นี้ให้ copy ไฟล์ .env มาแล้วเปลี่ยนชื่อเป็น .env.example ได้เลย
+- จบ
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
