@@ -14,6 +14,7 @@
 - Project จะให้ Route API เป็นหลัก 
 - เมื่อ clone โปรเจคไปแล้วให้ติดตั้งด้วย คำสั้ง composer install ได้เลย แนะนำให้เข้าไปอยุ่ใน project ก่อนนะครับ
 - เมื่อใช้คำสั้ง composer install เรียบร้อยแล้ว ให้สั้งหาไฟล์ .env ถ้าไม่มีไฟล์นี้ให้ copy ไฟล์ .env มาแล้วเปลี่ยนชื่อเป็น .env.example ได้เลย
+- ให้แก้ไขไฟล์ app/config/googlemaps.php ให้แก้ไขในส่วนของ  'key'=> "keygooglemap" (key จาก email)
 - จบ
 - Project Frontend อยู่นี่นะครับ [https://github.com/chartzaa/Gmap_Frontend](https://github.com/chartzaa/Gmap_Frontend).
 ## About Laravel
